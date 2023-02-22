@@ -32,3 +32,8 @@ var numero1 = Math.floor(Math.random()*100)//GENERA UN NUMERO ALEATORIO ENTRE 0 
 var numero2 = Math.ceil(Math.random()*100)//GENERA UN NUMERO ALEATORIO ENTRE 0 Y 100, yREDONDEA HACIA NUMERO ENTERO INMEDIATO ARRIBA
 
 producto(numero1,numero2)//OJO ESTO ES HARDCODE
+
+
+//Recorre una lista de numeros enteros e imprime lo siguiente segun sea el caso
+/* Imprime si el numero es divisible entre 2 o entre 3
+    En caso de que no sea divisible por ninguno de estos dos anteriores, imprime solamente el numero */
